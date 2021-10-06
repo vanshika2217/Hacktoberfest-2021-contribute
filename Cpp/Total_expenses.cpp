@@ -1,21 +1,18 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int main() {
-    // your code goes here
+
+int main(){
     int t;
-    double e,f,p,d;
     cin>>t;
-    while(t--){
-        cin>>e>>f;
-        p = e*f;
-        if(e>1000){
-            d=p/10;
-            p-=d;
-            printf("%f\n",p);
+    for(int i=0;i<t;i++){
+        int quantity;
+        float price;
+        cin>>quantity>>price;
+        float total=quantity*price;
+        if(quantity>1000){
+            total = total-(total*.1);
         }
-        else{
-              printf("%f\n",p);
-        }
+        cout<<fixed<<setprecision(6)<<total<<endl;
     }
     return 0;
 }
