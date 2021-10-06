@@ -17,6 +17,15 @@ https://hacktoberfest.digitalocean.com/
 - Login using GitHub [@Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 - Create 4 valid pull requests (PRs) between 1st - 31st October.
 
+## Rules and Regulations
+- It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
+- Try to stick to the issues mentioned. Any code other than the issues mentioned would not be accepted.
+- Once a contributor has generated a PR, he/she must wait until the Maintainers merge it. They should also look out for any comments/suggestions from the Maintainers while merging.
+- Programmes written in `Java, C, C++ and Python` are only accepted as solutions for the issues mentioned other than the issue regarding `README.md` files.
+- For committing solutions, there are folders for each programming languages namely `Java, C, Cpp and Python`. Everyone should be careful that they commit the solutions in the concerned folder of their code, otherwise it would not be accepted.
+- PRs on `README.md` have least scope to get accepted. So everyone must try to solve the programming related issues to get it merged.
+- Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
+
 ## Must Do:
 Here are few steps that everyone needs to follow before contributing to this repository:
 * Add your details to the `CONTRIBUTING.md` file as others have mentioned before.
@@ -44,17 +53,6 @@ Here are few steps that everyone needs to follow before contributing to this rep
 14) Keep checking if the owner of the repository has suggested you to make some changed so that it can be merged.
 15) Remember, if the PR is not merged, your submission will not be counted.
 16) Navigate to the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) By Digital Ocean website and check your contributions after almost an hour to see that it has been sent for review.
-
-----
-
-## Rules and Regulations
-- It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
-- Try to stick to the issues mentioned. Any code other than the issues mentioned would not be accepted.
-- Once a contributor has generated a PR, he/she must wait until the Maintainers merge it. They should also look out for any comments/suggestions from the Maintainers while merging.
-- Programmes written in `Java, C, C++ and Python` are only accepted as solutions for the issues mentioned other than the issue regarding `README.md` files.
-- For committing solutions, there are folders for each programming languages namely `Java, C, Cpp and Python`. Everyone should be careful that they commit the solutions in the concerned folder of their code, otherwise it would not be accepted.
-- PRs on `README.md` have least scope to get accepted. So everyone must try to solve the programming related issues to get it merged.
-- Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
 
 ---
 # ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨
