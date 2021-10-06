@@ -24,11 +24,11 @@ https://hacktoberfest.digitalocean.com/
 - Programmes written in `Java, C, C++ and Python` are only accepted as solutions for the issues mentioned other than the issue regarding `README.md` files.
 - For committing solutions, there are folders for each programming languages namely `Java, C, Cpp and Python`. Everyone should be careful that they commit the solutions in the concerned folder of their code, otherwise it would not be accepted.
 - PRs on `README.md` have least scope to get accepted. So everyone must try to solve the programming related issues to get it merged.
+- Do not create a new issue on your own. Anyone doing so shall be banned from this repository.
 - Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
 
 ## Must Do:
 Here are few steps that everyone needs to follow before contributing to this repository:
-* Add your details to the `CONTRIBUTING.md` file as others have mentioned before.
 * Follow the collaborators of this repository:
     - [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
     - [Suranjan Saha](https://www.github.com/Suranjan2002)
