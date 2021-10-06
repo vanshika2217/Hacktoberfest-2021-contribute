@@ -9,3 +9,10 @@
 - **Bio:** Student,MTA certified, Coder, Cyber security , Web Developer
 - **Github:** [Suranjan2002](https://github.com/Suranjan2002)
 ---
+
+#### Contributor #2
+#### Name: [Sayak Karar](https://github.com/Sayak-Karar-2581)
+- **Place:** Howrah, West Bengal
+- **Bio:** CSE Student, MTA Certified Security Fundamentals Expert, Ethical Hacker, 3 Star Coder at Code Chef, Web Developer
+- **Github:** [Sayak-Karar-2581](https://github.com/Sayak-Karar-2581)
+---
