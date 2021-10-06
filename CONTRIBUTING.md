@@ -6,7 +6,7 @@
 #### Contributor #1
 #### Name: [Suranjan Saha](https://github.com/Suranjan2002)
 - **Place:** Durgapur, West Bengal
-- **Bio:** Student,MTA certified, Coder, Cyber security , Web Developer
+- **Bio:** Student,MTA Certified Security Fundamentals Expert, Coder, Ethical Hacker, 2 star coder at Codechef, Web Developer
 - **Github:** [Suranjan2002](https://github.com/Suranjan2002)
 ---
 
