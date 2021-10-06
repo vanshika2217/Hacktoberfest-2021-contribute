@@ -39,7 +39,7 @@ Here are few steps that everyone needs to follow before contributing to this rep
 ## As a contributor:
 1) Navigate to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository.
 2) Go to `ISSUES` tab.
-3) Look through the `ISSUES` and find the most suitable one. 
+3) Look through the `ISSUES` and find the most suitable one. You would not be assigned an issue specifically. You just have to choose an issue and write a code for that and commit. So do not comment for getting an issue assigned.
 4) You will find `FORK` tab on top right corner beside `UNWATCH` and `STAR` *(this will help you in cloning the repo to your own profile)*.
 5) Add a new file to make the changes or edit the existing files.
 6) Remember to commit changes for the issues in the concerned folder of the programming languages that you would be employing to resolve the chosen issue.
