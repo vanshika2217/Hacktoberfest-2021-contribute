@@ -53,6 +53,7 @@ Here are few steps that everyone needs to follow before contributing to this rep
 14) Keep checking if the owner of the repository has suggested you to make some changed so that it can be merged.
 15) Remember, if the PR is not merged, your submission will not be counted.
 16) Navigate to the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) By Digital Ocean website and check your contributions after almost an hour to see that it has been sent for review.
+17) After every PR do not forget to fetch and merge the forked repository in you GitHub account. Keep it updated with the main repository to avoid any trouble.
 
 ---
 # ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨
