@@ -16,3 +16,11 @@
 - **Bio:** CSE Student, MTA Certified Security Fundamentals Expert, Ethical Hacker, 3 Star Coder at Code Chef, Web Developer
 - **Github:** [Sayak-Karar-2581](https://github.com/Sayak-Karar-2581)
 ---
+
+
+#### Contributor #3
+#### Name: [Sinjini Hom Roy](https://github.com/Sinjini46)
+- **Place:** Saltlake,kolkata, West Bengal
+- **Bio:** CSE Student,5 star coder at hackerrank in java, web Developer
+- **Github:** [Sinjini Hom Roy](https://github.com/Sinjini46)
+---
