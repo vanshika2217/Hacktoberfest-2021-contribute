@@ -14,30 +14,29 @@ https://hacktoberfest.digitalocean.com/
 ----
 
 # Steps to follow to complete 4 successful PRs to win a T-shirt or plant a tree!
-- Login using GitHub @[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- Create four valid pull requests (PRs) between 1st - 31st October
+- Login using GitHub [@Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+- Create 4 valid pull requests (PRs) between 1st - 31st October.
 
 ## Must Do:
 Here are few steps that everyone needs to follow before contributing to this repository:
-* Add your name and Github Profile link to the `CONTRIBUTING.md` file as:
-    `[yourUserName](https://www.github.com/yourUsername)`
+* Add your details to the `CONTRIBUTING.md` file as others have mentioned before.
 * Follow the collaborators of this repository:
     - [Sayak Karar](https://www.github.com/Sayak-Karar-2581)
     - [Suranjan Saha](https://www.github.com/Suranjan2002)
     - [Sinjini Hom Roy](https://www.github.com/Sinjini46)
+* Follow the rules and regulations to sucessfully contribute in this repository.
 
 
 ## As a contributor:
-
 1) Navigate to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository.
-2) Go to **ISSUES** tab.
-3) Look through the **ISSUES** and find the most suitable one.
-4) You will find **FORK** tab on top right corner beside **UNWATCH** and **STAR** *(this will help you in cloning the repo to your own profile)*.
+2) Go to `ISSUES` tab.
+3) Look through the `ISSUES` and find the most suitable one. 
+4) You will find `FORK` tab on top right corner beside `UNWATCH` and `STAR` *(this will help you in cloning the repo to your own profile)*.
 5) Add a new file to make the changes or edit the existing files.
-6) Add your name,github-username,Your Contribution File Name,Institution, as well as your Email Id for future referral. (Must be done in a single PR.)
-7) You will find a **COMMIT** button below, put a suitable message about the change and press **COMMIT**.
-8) Come back to hacktoberfest-contribute repo (from where you initially forked).
-9) Go to **PULL REQUESTS** tab.
+6) Remember to commit changes for the issues in the concerned folder of the programming languages that you would be employing to resolve the chosen issue.
+7) You will find a `COMMIT` button below, put a suitable message about the change and press `COMMIT`.
+8) Come back to [Hacktoberfest-2021-contribute](https://github.com/Suranjan2002/Hacktoberfest-2021-contribute) repository (from where you initially forked).
+9) Go to `PULL REQUESTS` tab.
 10) Click on **New Pull Request**.
 11) Give a necessary title and properly formatted description.
 12) Complete the **Pull Request**.
@@ -46,25 +45,16 @@ Here are few steps that everyone needs to follow before contributing to this rep
 15) Remember, if the PR is not merged, your submission will not be counted.
 16) Navigate to the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) By Digital Ocean website and check your contributions after almost an hour to see that it has been sent for review.
 
-
-## As a maintainer:
-
-1) Go to any repository of yours.
-2) Go to **ISSUES** tab.
-3) Go to **LABELS** tab.
-4) Create New label: 
- - **hacktoberfest**
- - **hacktoberfest-accepted**
-   
-  ***Spelling must be correct and fonts too***
-
-6) Check if these two labels got added to the existing labels.
-7) Go back to **ISSUES** tab.
-8) Create a New issue.
-9) Give a title and description.
-10) Wait for a pull request to come.
-11) Merge it and then the contibutor will successfully complete 1 PR.
-
 ----
 
-# ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!
+## Rules and Regulations
+- It would be at the discretion of the **MAINTAINERS** of this repository to merge the PRs of the contributers. After generating a PR, the contributor has to wait for **at least 1 hour** before it gets merged.
+- Try to stick to the issues mentioned. Any code other than the issues mentioned would not be accepted.
+- Once a contributor has generated a PR, he/she must wait until the Maintainers merge it. They should also look out for any comments/suggestions from the Maintainers while merging.
+- Programmes written in `Java, C, C++ and Python` are only accepted as solutions for the issues mentioned other than the issue regarding `README.md` files.
+- For committing solutions, there are folders for each programming languages namely `Java, C, Cpp and Python`. Everyone should be careful that they commit the solutions in the concerned folder of their code, otherwise it would not be accepted.
+- PRs on `README.md` have least scope to get accepted. So everyone must try to solve the programming related issues to get it merged.
+- Useless and unecessary PRs would be discarded even after merged at first. **No spams accepted.**
+
+---
+# ✨ALL THE BEST EVERYONE!! LET'S GET CONTRIBUTING!!✨
